@@ -1,7 +1,7 @@
 {
 	"name": "simple-profiler",
 	"main": "build/default/profiler",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Access the V8 profiler from node.js ",
 	"homepage": "http://github.com/X-Streamly/node-profiler",
 	"author": {

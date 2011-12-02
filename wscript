@@ -11,5 +11,5 @@ def configure(ctx):
 
 def build(ctx):
 	t = ctx.new_task_gen('cxx', 'shlib', 'node_addon')
-	t.target = 'profiler'
+	t.target = 'simple-profiler'
 	t.source = 'profiler.cc'
