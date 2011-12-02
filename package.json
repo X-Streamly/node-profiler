@@ -1,13 +1,12 @@
 {
-	"name": "profiler",
+	"name": "simple-profiler",
 	"main": "build/default/profiler",
-	"version": "1.0.1",
+	"version": "0.1",
 	"description": "Access the V8 profiler from node.js ",
-	"homepage": "http://github.com/bnoordhuis/node-profiler",
+	"homepage": "http://github.com/X-Streamly/node-profiler",
 	"author": {
-		"name": "Ben Noordhuis",
-		"email": "info@bnoordhuis.nl",
-		"url": "http://bnoordhuis.nl/"
+		"name": "Brian Willard",
+		"email": "bwillard@gmail.com",
 	},
 	"scripts": {
 		"preinstall": "node-waf configure",
@@ -15,6 +14,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/bnoordhuis/node-profiler.git"
+		"url": "http://github.com/X-Streamly/node-profiler.git"
 	}
 }
